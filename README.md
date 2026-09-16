@@ -1,152 +1,173 @@
-# 👋 Hey, I'm Het Patel
+# Hey, I'm Het Patel 👋
+
+**Software Engineer · Systems · Backend · Data · AI**
+
+I like building software that sits between a difficult problem and a practical solution.
+
+My work has taken me from **mobile and full-stack applications** to **backend systems, cloud infrastructure, data pipelines, AI/GenAI, and performance engineering**. What interests me most is understanding what happens underneath the application — how systems are designed, how components communicate, how data moves through them, and how they can be made more reliable and efficient.
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  HET PATEL                                           │
-│  SOFTWARE ENGINEER                                   │
-│                                                      │
-│  STATUS   : BUILDING                                 │
-│  FOCUS    : SYSTEMS × DATA × AI                      │
-│  APPROACH : DESIGN → BUILD → DEBUG → SHIP            │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-I build software systems that turn complex workflows into something people can actually use.
-
-My work spans **backend engineering, system architecture, data processing, cloud infrastructure, and AI/GenAI**, with a particular interest in how software systems behave, scale, and interact.
-
-```text
-Currently thinking about:
-
-→ Backend systems
-→ System architecture
-→ Data & distributed workflows
-→ Performance engineering
-→ AI agents & GenAI
-→ Computer & software systems
+BUILDING SOFTWARE
+        ↓
+UNDERSTANDING SYSTEMS
+        ↓
+WORKING WITH DATA
+        ↓
+ADDING INTELLIGENCE
+        ↓
+MAKING IT BETTER
 ```
 
 ---
 
-## ⚙️ Engineering Stack
+## 🧠 What I Work With
 
-```text
-LANGUAGES
-Java · JavaScript · C++ · SQL
-
-BACKEND
-Spring Boot · Node.js · Express.js · REST APIs
-
-FRONTEND
-Angular · React · React Native
-
-DATA
-PostgreSQL · MySQL · MongoDB
-Redis · RabbitMQ
-
-CLOUD
-AWS · EC2 · S3 · RDS · ELB · Auto Scaling · IAM
-
-AI / GENAI
-RAG · LLMs · AI Agents · LLM Guardrails · AI Workflows
-
-ENGINEERING
-System Architecture · Data Modeling
-Data Processing Pipelines · Performance Engineering
-```
+| Area | Technologies |
+|---|---|
+| **Languages** | Java · JavaScript · C++ · SQL |
+| **Backend** | Spring Boot · Node.js · Express.js · REST APIs |
+| **Frontend & Mobile** | Angular · React · React Native |
+| **Data & Systems** | PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ |
+| **Cloud** | AWS · EC2 · S3 · RDS · ELB · Auto Scaling · IAM |
+| **AI / GenAI** | RAG · LLMs · AI Agents · LLM Guardrails · AI Workflows |
+| **Engineering** | System Architecture · Data Modeling · Data Processing · Performance Engineering |
 
 ---
 
-## 🚀 Things I've Built
+# 🚀 Selected Work
+
+### 🛡️ Proctify — Real-Time Proctoring
+
+A proctored examination platform combining a **custom ElectronJS examination browser, real-time monitoring, face verification, and AI/computer-vision-based suspicious activity detection**.
+
+The project explores an interesting systems problem: how do you create a controlled examination environment when a normal web browser cannot control operating-system-level interactions?
+
+**ElectronJS · ReactJS · Node.js · WebRTC · PostgreSQL · YOLO · AWS**
+
+→ [View Proctify](https://github.com/hetpatel4902/Proctor)
+
+---
 
 ### 🧠 AI Performance Testing & Optimization Platform
 
-An AI-driven platform that analyzes application telemetry, logs, metrics, traces, and historical performance data to generate realistic performance-testing scenarios.
+An AI-driven performance engineering platform that works with **telemetry, logs, metrics, traces, and historical performance data** to automate parts of the performance-testing lifecycle.
 
-It combines **AI agents, automated test generation, bottleneck detection, root-cause analysis, and RAG-powered optimization recommendations** to help engineers understand and improve application performance.
+The system combines AI agents for test generation with bottleneck detection, root-cause analysis, and RAG-powered optimization recommendations.
+
+**AI Agents · RAG · Performance Engineering · Observability · Test Automation**
 
 ---
 
 ### 🍔 Food Delivery Platform
 
-A complete multi-role food delivery ecosystem consisting of:
+A complete multi-role food delivery ecosystem connecting:
 
 ```text
-👤 User App
-      │
-      ▼
-🏪 Restaurant Partner App
-      │
-      ▼
-🛵 Delivery Partner App
+USER
+ │
+ ├── Discover restaurants
+ ├── Manage cart & orders
+ └── Track delivery
+        │
+        ▼
+RESTAURANT
+ │
+ ├── Manage dishes
+ └── Process orders
+        │
+        ▼
+DELIVERY PARTNER
+ │
+ ├── Accept orders
+ ├── Navigate
+ └── Share live location
 ```
 
-Built with React Native and cloud services, with authentication, restaurant/menu management, ordering, navigation, location-based delivery workflows, and delivery tracking.
+Built as a set of React Native applications with cloud-backed services and location-aware workflows.
 
-→ [Explore the Food Delivery Platform](https://github.com/hetpatel4902/food-delivery-platform)
+→ [View the Platform](https://github.com/hetpatel4902/food-delivery-platform)
+
+---
+
+### 🎯 IMAZE '23
+
+A production-deployed React Native application built for a college technical festival.
+
+I led development as part of a **4-member team**, working on the participant-facing application, event discovery, registrations, token purchases, payment workflows, and deployment.
+
+**1,500+ downloads · 4.7★ rating**
+
+→ [View IMAZE '23](https://github.com/hetpatel4902/Imaze23)
 
 ---
 
 ### 🍽️ Sachivalay Canteen
 
-A digital canteen and meal-ordering platform developed for Gujarat Sachivalay employees.
+A mobile application developed for Gujarat Sachivalay employees as a solution for the **Gujarat State Government SSIP Hackathon**.
 
-Built with **React Native and AWS**, with a focus on simplifying the meal-ordering workflow.
+The application digitized the canteen ordering experience using React Native and AWS.
 
----
+**🥇 Winner — 1st among 2,500+ teams**
 
-### 🎯 Imaze
-
-A React Native platform developed for a college technical festival.
-
-I led the development and deployment while coordinating a team of developers and implementing AWS infrastructure and CI/CD workflows.
-
-**1500+ downloads · 4.7★ rating**
+→ [View Project](https://github.com/hetpatel4902/ssip)
 
 ---
 
-## 🧩 How I Like to Build
+### 🎨 Virtual Painter
+
+A computer-vision project that turns webcam-based color tracking into a virtual drawing experience.
+
+It uses **OpenCV, HSV color detection, contour detection, and real-time coordinate tracking**.
+
+**Python · OpenCV · NumPy · Computer Vision**
+
+→ [View Project](https://github.com/hetpatel4902/virtual-painter)
+
+---
+
+# 🏗️ How I Think About Engineering
+
+I enjoy the part of engineering that happens **between the idea and the final product**.
 
 ```text
-       ┌──────────────┐
-       │  Understand  │
-       │  the problem │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │   Design the │
-       │    system    │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │    Build &   │
-       │    Integrate │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │   Measure &  │
-       │    Debug     │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │     Ship     │
-       └──────────────┘
+        PROBLEM
+           │
+           ▼
+      Understand
+           │
+           ▼
+     Design the System
+           │
+           ▼
+     Build Components
+           │
+           ▼
+      Integrate Them
+           │
+           ▼
+     Measure & Debug
+           │
+           ▼
+         SHIP
+           │
+           ▼
+      Learn & Improve
 ```
 
-I enjoy working where **software engineering, systems, data, and AI** meet.
+I care about more than making something work.
+
+I want to understand **why it works, where it breaks, how it scales, and what can make it better.**
 
 ---
 
-## 🏆 A Few Things I'm Proud Of
+# 🏆 Milestones
 
 ```text
 🥇 SSIP Hackathon
-   Winner — 1st among 2,500+ teams
+   1st Rank among 2,500+ teams
 
 🥇 TCS AI Friday Hackathon
-   Winner — 1st among 20+ teams
+   1st Rank among 20+ teams
 
 🥈 Ideathon 2023
    1st Runner-Up
@@ -157,27 +178,53 @@ I enjoy working where **software engineering, systems, data, and AI** meet.
 
 ---
 
-## 🧭 Current Direction
+# 🔭 Where I'm Heading
 
-I'm particularly interested in exploring:
+I'm increasingly interested in the intersection of:
 
 ```text
-Computer & Software Systems
-        ×
-Backend Engineering
-        ×
-System Architecture
-        ×
+        SOFTWARE SYSTEMS
+               ×
+       BACKEND ENGINEERING
+               ×
+       SYSTEM ARCHITECTURE
+               ×
+        DATA ENGINEERING
+               ×
+             AI
+               ×
+    PERFORMANCE ENGINEERING
+```
+
+I'm particularly interested in **building intelligent software systems** — systems where good architecture, reliable data, and AI work together rather than existing as separate pieces.
+
+---
+
+# 📌 A Few Things About My Work
+
+```text
+Backend
+→ APIs, databases, integrations & services
+
+Systems
+→ Architecture, workflows & distributed components
+
 Data
-        ×
-AI / GenAI
-        ×
-Performance Engineering
+→ Processing pipelines, modeling & analytics
+
+Cloud
+→ Infrastructure, deployment & scalable services
+
+AI
+→ RAG, agents, GenAI workflows & intelligent automation
+
+Performance
+→ Observability, testing, bottleneck analysis & optimization
 ```
 
 ---
 
-## 🔗 Find Me
+# 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Het%20Patel-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/het-patel-462236201)
 
@@ -190,9 +237,9 @@ $ whoami
 
 hetpatel4902
 
-$ cat /etc/motd
+$ echo $NEXT
 
-Build things.
-Understand why they work.
-Then make them better.
+Keep building.
+Keep questioning.
+Keep improving.
 ```
