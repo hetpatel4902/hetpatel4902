@@ -17,6 +17,35 @@ ADDING INTELLIGENCE
         ↓
 MAKING IT BETTER
 ```
+---
+
+# 💼 Professional Experience
+
+### Tata Consultancy Services (TCS)
+**Systems Engineer · Nov 2024 – Present**
+
+Working on enterprise software projects across **backend engineering, full-stack development, system architecture, data processing, and AI-driven solutions**.
+
+Some of my work includes:
+
+- **System Architecture & Backend Engineering** — designed application architecture, backend modules, REST APIs, and PostgreSQL database structures for enterprise applications.
+- **Technical Leadership** — led a **15+ member frontend and backend engineering team**, coordinating technical tasks, development, integration, reviews, and delivery.
+- **Enterprise Applications** — developed full-stack solutions using **Spring Boot, Angular, PostgreSQL, and REST APIs** across multiple business domains.
+- **Data Engineering** — built data processing pipelines and structured analytical datasets for sports analytics use cases.
+- **AI / GenAI** — worked on RAG-based workflows, AI agents, and intelligent performance-testing and optimization solutions.
+- **Cloud & Infrastructure** — worked with AWS-based infrastructure and enterprise application deployments.
+
+### Earlier Experience
+
+**TatvaSoft — Associate Software Engineer**  
+*Jan 2024 – Oct 2024*
+
+Backend and full-stack development involving **Node.js, REST APIs, databases, RabbitMQ, and application integrations**.
+
+**The Karmic Universe — Backend Developer Intern**  
+*Sep 2023 – Dec 2023*
+
+Worked on backend services, stock-data processing, scheduled jobs, API integration, and Redis-based performance optimization.
 
 ---
 
