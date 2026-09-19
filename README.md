@@ -1,6 +1,6 @@
 # Hey, I'm Het Patel 👋
 
-**Software Engineer · Systems · Backend · Data · AI**
+**Software Engineer · Systems · Backend · Cloud · AI**
 
 I like building software that sits between a difficult problem and a practical solution.
 
