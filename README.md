@@ -6,6 +6,11 @@ I like building software that sits between a difficult problem and a practical s
 
 My work has taken me from **mobile and full-stack applications** to **backend systems, cloud infrastructure, data pipelines, AI/GenAI, and performance engineering**. What interests me most is understanding what happens underneath the application — how systems are designed, how components communicate, how data moves through them, and how they can be made more reliable and efficient.
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge)](https://het-birenkumar-patel-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Het%20Patel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/het-patel-462236201/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Het%20Patel-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-hetpatel4902-181717?style=for-the-badge&logo=github)](https://github.com/hetpatel4902)
+
 ```text
 BUILDING SOFTWARE
         ↓
@@ -84,6 +89,8 @@ An AI-driven performance engineering platform that works with **telemetry, logs,
 The system combines AI agents for test generation with bottleneck detection, root-cause analysis, and RAG-powered optimization recommendations.
 
 **AI Agents · RAG · Performance Engineering · Observability · Test Automation**
+
+→ [View Proctify](https://github.com/hetpatel4902/AI-driven-performance-testing-and-optimization-platform)
 
 ---
 
